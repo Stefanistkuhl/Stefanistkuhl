@@ -1,12 +1,12 @@
 ![](https://cdn.7tv.app/emote/01GEJEYFHG0007GP4GFJM7DS2E/4x.gif)
 
-![](https://cdn.7tv.app/emote/01GH9P9GER000EV4ZPGZC8VS3D/4x.avif)
+![](https://cdn.7tv.app/emote/01GH9P9GER000EV4ZPGZC8VS3D/4x.gif)
 
 ---
 
 I like to overengineer my code.  
 
-And I might have a *small* Docker/containerization and Go addiction, but it's totally not real and nothing to worry about.  
+And I might have a *small* Docker/containerization and Go addiction, but it's totally not real and nothing to worry about :3  
 
 #### Technologies I use and like  
 - Go  
@@ -14,16 +14,15 @@ And I might have a *small* Docker/containerization and Go addiction, but it's to
 - Python  
   - For small automations or general code that isn't backend  
 - Java  
-  - Forced by school  
+  - Forced by school :( 
 - Docker  
-  - To package my code and deploy it—I *might* have an addiction  
+  - To package my code and deploy it—I *may* have an addiction  
 
 #### Stuff I've done  
 ```diff
 + Wasting time overengineering projects and adding Docker to them  
 - Being actually productive  
 ```  
-
 #### Ok, but what did/do I actually do?  
 - Built a Discord bot with discord.js and a Go backend for handling requests (link to Bubukabum repo or something)
 - Hitless Elden Ring Runs...
@@ -36,12 +35,12 @@ And I might have a *small* Docker/containerization and Go addiction, but it's to
 - Write more server-related docs for myself in blog form in a repo  
 
 #### Professional Java hater
-- I hate Java bc,
- it Requires more lines of code.
- has higher memory consumption due to JVM.
- has slower startup compared to compiled languages.
- has complex ecosystem and libraries.
- I'm forced by school to learn it...
+- I hate Java bc:
+- it Requires more lines of code.
+- has higher memory consumption due to JVM.
+- has slower startup compared to compiled languages.
+- has complex ecosystem and libraries.
+- I'm forced by school to learn it...
 
 ---
 
