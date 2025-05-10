@@ -35,4 +35,4 @@ And I might have a *small* Docker/containerization and Go addiction, but it's to
 ---
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanistkuhl&layout=donut-vertical&theme=dark&exclude_repo=obsidian,stefanistkuhl.github.io&langs_count=20&disable_animations=true&custom_title=i%20hate%20java&size_weight=1&count_weight=0)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanistkuhl&layout=donut-vertical&theme=dark&exclude_repo=obsidian,stefanistkuhl.github.io,goobering&langs_count=20&disable_animations=true&custom_title=i%20hate%20java&size_weight=1&count_weight=0)
