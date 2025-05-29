@@ -23,7 +23,8 @@ And I might have a *small* Docker/containerization and Go addiction, but it's to
 ```  
 
 #### Ok, but what did/do I actually do?  
-- Built a Discord bot with discord.js and a Go backend for handling requests (link to Bubukabum repo or something)  
+- GNS3v3 API Wrapper to automate setting up exercises in it for my school [gns3-api-util](https://github.com/Stefanistkuhl/gns3-api-util)
+- Built a Discord bot with discord.js and a Go backend for handling requests [bubuKabum](https://github.com/Stefanistkuhl/bubuKabum)
 - Nothing more, lol  
 
 #### What do I want to do?  
