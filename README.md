@@ -6,7 +6,7 @@ I like to overengineer my code.
 
 And I might have a *small* Docker/containerization and Go addiction, but it's totally not real and nothing to worry about.  
 
-#### Technologies I use and like  
+#### Technologies I use  
 - Go  
   - For backend code  
 - Python  
@@ -14,7 +14,7 @@ And I might have a *small* Docker/containerization and Go addiction, but it's to
 - Java  
   - Forced by school  
 - Docker  
-  - To package my code and deploy it—I *might* have an addiction  
+  - To package my code and deploy it-I *might* have an addiction  
 
 #### Stuff I've done  
 ```diff
